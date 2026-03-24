@@ -1,0 +1,9 @@
+{
+  "users": {
+    "joey": {
+      "username": "Joey",
+      "salt": "z+B7knolnd0oyrcPXWUbqg==",
+      "password_hash": "1EZh5RoXWepsBoXwL5yHK8N4JKPwaM+IuEQoRt0L7Fk="
+    }
+  }
+}
